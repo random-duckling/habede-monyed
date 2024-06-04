@@ -1,7 +1,5 @@
-@import url('https://fonts.google.com/specimen/Indie+Flower');
-@import url('https://fonts.google.com/specimen/Amatic+SC?query=Amatic+');
-
 body {
+  font-family: 'Courier New', Courier, monospace;
   background: #FDE3A7;
   margin: 0px;
   padding: 0px;
